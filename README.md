@@ -12,7 +12,7 @@
 
 ### 🎥 BST Lab Lecture
 
-👉 (Link will be added after the lecture upload)
+👉 https://youtu.be/D59gN8u2XyY
 
 ---
 
