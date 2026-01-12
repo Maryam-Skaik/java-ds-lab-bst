@@ -13,8 +13,8 @@ This activity is designed to assess your **conceptual understanding** and **prac
 
 By completing this activity, you will demonstrate your ability to:
 
-- Apply BST ordering rules correctly
-- Implement recursive tree algorithms
+- Apply **BST ordering rules** correctly
+- Implement **recursive tree algorithms**
 - Analyze tree behavior using traversal logic
 - Translate theoretical properties into correct code
 
@@ -41,6 +41,8 @@ In this activity, you will work directly with BST properties discussed in the la
 
 ## 🧪 Activity Tasks
 
+Below are the tasks along with references to the **solution files**, fully commented and explained.
+
 ### **Task 1: Find Minimum and Maximum Value in a BST**
 
 📌 **Objective:**  
@@ -60,6 +62,8 @@ Maximum value
 📌 **Expected Complexity:**  
 `O(h)` where `h` is the height of the tree
 
+**Solution File: [FindMinMax.java](FindMinMax.java)**
+
 ---
 
 ### **Task 2: Validate a Binary Search Tree**
@@ -78,6 +82,8 @@ Root of a binary tree
 
 📌 **Hint:**  
 Use a recursive **min–max range** approach.
+
+**Solution File: [ValidateBST.java](ValidateBST.java)**
 
 ---
 
@@ -99,6 +105,8 @@ Number of nodes within the range
 📌 **Expected Complexity:**  
 Better than `O(n)` for balanced trees
 
+**Solution File: [CountNodesInRange.java](CountNodesInRange.java)**
+
 ---
 
 ### **Task 4: Convert a Sorted Array to a BST**
@@ -118,6 +126,8 @@ Root of a balanced BST
 
 📌 **Expected Complexity:**  
 `O(n)`
+
+**Solution File: [SortedArrayToBST.java](SortedArrayToBST.java)** 
 
 ---
 
